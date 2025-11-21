@@ -10,6 +10,6 @@
 ### Langages les plus utilisés
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LrnzGit2004&layout=compact&theme=dark)
 ### Compétences
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,nextjs,figma,mspowerfx,git,github,vercel,vscode,nodejs&perline=8)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,nextjs,figma,mspowerfx,git,github,vercel,vscode,shadcn,nodejs&perline=8)
 ### Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LrnzGit2004&theme=dark)
