@@ -1,15 +1,39 @@
-## My banner
+# Hi there, I'm Eric Lorryl 👋
 
-![--Ma bannière--](https://m.facebook.com/photo.php?fbid=1228421455565575)
+## 🎓 About Me
+Je suis étudiant en **Master Recherche en Système logiciel en Environnement Distribué** à l'**Université de Ngaoundéré**, Cameroun. Passionné par le développement d'applications modernes et l'Intelligence Artificielle.
 
+- 🔭 Je travaille actuellement sur **MyNkap** (gestion de budget et tontines) et **UNIPub** (plateforme de publications scientifiques).
+- 🌱 J'approfondis mes connaissances en **Next.js**, **Laravel**, et **Flutter**.
+- 🏢 Je développe également le site web du laboratoire **LIAISI**.
+- 🥑 Pescétarien et passionné de fitness à domicile.
 
-## Hi there👋, is a preview of my stats on github
+---
 
-### Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LrnzGit2004&show_icons=true&theme=dark)
-### Langages les plus utilisés
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LrnzGit2004&layout=compact&theme=dark)
-### Compétences
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,nextjs,figma,mspowerfx,git,github,vercel,vscode,shadcn,nodejs&perline=8)
-### Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=LrnzGit2004&theme=dark)
+## 🛠 Skills & Tools
+### Languages & Frameworks
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,php,laravel,dart,flutter&perline=6)
+
+### Tools & Design
+![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,mysql,tensorflow,postman,vercel&perline=6)
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LrnzGit2004&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LrnzGit2004&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=LrnzGit2004&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+- **UI/UX Design**: Je conçois mes maquettes sur **Figma**.
+- **Localisation**: Basé à Ngaoundéré, Cameroun.
